@@ -1,0 +1,2 @@
+requests        #Request Library
+beautifulsoup4  #BeautifulSoup4 Library
