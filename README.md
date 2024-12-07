@@ -26,4 +26,4 @@
    
 4.  Run the project with the following command:
    ```bash
-   python main.py
+    python main.py
